@@ -1,0 +1,22 @@
+"USaidConnects"
+
+# Home page
+in nav bar[
+oop.(jobs. intern- scolarships- تبادل ثقافي - voulnteer - courses) + add
+]
+# about us
+
+#profile[*name - *birthdate - *passwords - *mail - *majour - *school - *interests - *address]
+
+opp*[
+copamy name
+opp details
+starndards
+mail
+]
+
+logout
+
+colorS:
+#012A6C BLUE
+#C3103A RED
